@@ -1,0 +1,61 @@
+D:\Design Research\Programming\Netduino Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.exe
+D:\Design Research\Programming\Netduino Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.pdb
+D:\Design Research\Programming\Netduino Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Design Research\Programming\Netduino Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Design Research\Programming\Netduino Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Design Research\Programming\Netduino Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Design Research\Programming\Netduino Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.exe
+D:\Design Research\Programming\Netduino Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.pdb
+D:\Design Research\Programming\Netduino Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Design Research\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.exe
+D:\Design Research\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.pdb
+D:\Design Research\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.exe
+D:\Design Research\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.pdb
+D:\Design Research\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Design Research\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Design Research\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Design Research\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Design Research\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.exe
+D:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.pdb
+D:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.exe
+D:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.pdb
+D:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.exe
+F:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.pdb
+F:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.exe
+F:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.pdb
+F:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Design Research_Synced\Programming\Windows7 Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.exe
+F:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.pdb
+D:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.exe
+D:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.pdb
+D:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.exe
+D:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.pdb
+D:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.exe
+F:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.pdb
+F:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Design Research_Synced\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ErisSync\Design Research\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.exe
+G:\ErisSync\Design Research\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.pdb
+G:\ErisSync\Design Research\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.exe
+G:\ErisSync\Design Research\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\bin\Debug\TCP Server_PC.pdb
+G:\ErisSync\Design Research\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\ErisSync\Design Research\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\ErisSync\Design Research\Programming\Windows Desktop Programs\TCP Server_PC\TCP Server_PC\obj\x86\Debug\TCP Server_PC.csproj.GenerateResource.Cache
